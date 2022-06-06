@@ -76,7 +76,7 @@
     </TableLayout>
 
     <com.example.audiograph.BoardManager
-        android:id="@+id/BoardManaverView"
+        android:id="@+id/BoardManagerView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="50" />
